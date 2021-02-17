@@ -16,7 +16,7 @@ Java
 
 ▼ 학습내용 코드 샘플
 
-```
+```java
 package strategy.after;
 
 public class MyProgram {
