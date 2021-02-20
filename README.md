@@ -8,3 +8,5 @@ https://www.yalco.kr/29_oodp_1/
 ## 목차
 
 - Singleton
+- State
+- Stradegy
