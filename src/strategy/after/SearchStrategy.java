@@ -1,7 +1,7 @@
 package strategy.after;
 
 public interface SearchStrategy {
-	public void search();
+	void search();
 }
 
 class SearchStrategyAll implements SearchStrategy {
